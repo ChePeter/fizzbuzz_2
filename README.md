@@ -2,9 +2,13 @@
 FizzBuzz по-македонски
 
 В продолжение увлекательной дискуссии
+
 https://habr.com/ru/post/540136/
+
 https://habr.com/ru/post/682080/
+
 https://habr.com/ru/post/682332/
+
 в 4 потока
 time ./multithreaded2 > /dev/null
 
