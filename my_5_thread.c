@@ -4,7 +4,7 @@
  Author      : Peter Che 7210208@gmail.com
  Version     :
  Copyright   : Учитесь
- Description : FizzBuzz in C
+ Description : FizzBuzz in C second round
  ============================================================================
  */
 
